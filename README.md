@@ -15,7 +15,11 @@ In this project we are providing a climate analysis of Hawaii, specifically look
 - Decembers's minimum is 56 F.
 - December's max precipitation is 6.42.
 - December's average precipitation is 0.217.
- 
+- June temperature histogram.
+ ![June_histo](https://user-images.githubusercontent.com/80363261/118351135-c2198c80-b51f-11eb-9ba1-7da9398c84bb.png)
+- December temperature histogram. 
+ ![Dec_histo](https://user-images.githubusercontent.com/80363261/118351171-fab96600-b51f-11eb-84aa-215247ccf094.png)
+
  ## Summary
 
  The climate between June and December is actually very moderate. The average temperatures between these months is only 3.9 degrees fahrenheit. This warm weather will be perfect for selling lots of ice cream. 
